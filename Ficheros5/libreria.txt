@@ -1,0 +1,12 @@
+codigo: 2
+titulo: asd
+autor: asd
+precio: 20.0
+codigo: 1
+titulo: asd
+autor: asd
+precio: 20.0
+codigo: 1
+titulo: asd
+autor: asd
+precio: 20.0
